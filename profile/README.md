@@ -11,7 +11,6 @@ Checkout our projects:
 
 #
 ###### This project is NOT sponsored or endorsed by Apple Inc. <br/> We do NOT have any association with Apple Inc.
-###### The Swift logo is a trademark of Apple Inc.
 
 <!--
 
