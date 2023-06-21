@@ -1,8 +1,7 @@
 ## Hi there 👋
+You've reached SwiftQuic's GitHub profile. 
 
-You've reached the GitHub profile of SwiftQuic. 
-
-This organization's goal is to build Swift language implementations of QUIC and HTTP3. 
+Our goal is to provide open source [Swift](https://www.swift.org/about/) implementations of [QUIC](https://www.rfc-editor.org/info/rfc9000) and [HTTP/3](https://www.rfc-editor.org/info/rfc9114). 
 
 Checkout our projects:
 
