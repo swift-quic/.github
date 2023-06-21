@@ -1,12 +1,14 @@
 ## Hi there 👋
-You've reached SwiftQuic's GitHub profile. 
+You've reached the SwiftQuic organization's profile on GitHub.
 
-Our goal is to provide open source [Swift](https://www.swift.org/about/) implementations of [QUIC](https://www.rfc-editor.org/info/rfc9000) and [HTTP/3](https://www.rfc-editor.org/info/rfc9114). 
+Our goal is to provide open-source [Swift](https://www.swift.org/about/) implementations of [QUIC](https://www.rfc-editor.org/info/rfc9000) and [HTTP/3](https://www.rfc-editor.org/info/rfc9114). Repositories first created on personal profiles were transferred here to emphasize our open and collaborative
+aspect. Any contribution, ideas, criticism, or code, is welcome and greatly appreciated.
 
 Checkout our projects:
 
-- SwiftQuic — core QUIC library. 
-- ...
+- [SwiftQuic](https://github.com/swift-quic/swift-quic): core QUIC library. 
+- ...: more to come.
+
 
 <!--
 
